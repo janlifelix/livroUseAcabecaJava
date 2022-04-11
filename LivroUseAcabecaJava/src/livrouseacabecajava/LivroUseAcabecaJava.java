@@ -14,7 +14,9 @@ public class LivroUseAcabecaJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String [] bandaListaUm={"Deep Purple", "Black Sabbath", "Led Zeppelin", "Grand Funk", "Uriah Heep"};
+        String [] bandaListaDois={"Rush", "Hawkwind", "Ramones","Sex Pistols", "Ac/Dc"};
+        String [] bandaListaTres={};
     }
     
 }
